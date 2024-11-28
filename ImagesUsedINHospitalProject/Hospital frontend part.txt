@@ -1,0 +1,14 @@
+first -> npm create vite@latest ./
+then click on react
+then click on javascript
+
+second -> npm install
+
+third -> npm i axios react-icons react-multi-carousel react-router-dom react-toastify
+    Use of These====
+        axis -je request pathvnaret tya sathi use hote,
+		react-icons - react icon ghenaya sathi,
+		react-multi-carousel -- slider sathi use hote,
+		react-router-dom -- eka page varun dusrya page jr janyasathi ,
+		react-toastify -- alert message dakhvnya sathi
+	
